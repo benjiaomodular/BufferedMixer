@@ -33,7 +33,7 @@ F 1 "TL074" H 3350 2750 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 3325 2850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3425 2950 50  0001 C CNN
 	2    3375 2750
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL074 U1
@@ -44,7 +44,7 @@ F 1 "TL074" H 3300 4650 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 3300 4750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3400 4850 50  0001 C CNN
 	3    3350 4650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL074 U1
@@ -55,7 +55,7 @@ F 1 "TL074" H 3300 6375 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 3300 6475 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3400 6575 50  0001 C CNN
 	4    3350 6375
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_POT RV1
@@ -881,7 +881,7 @@ F 1 "TL074" H 7200 2750 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 7175 2850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7275 2950 50  0001 C CNN
 	2    7225 2750
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL074 U3
@@ -892,7 +892,7 @@ F 1 "TL074" H 7150 4650 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 7150 4750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7250 4850 50  0001 C CNN
 	3    7200 4650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL074 U3
@@ -903,7 +903,7 @@ F 1 "TL074" H 7150 6375 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 7150 6475 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7250 6575 50  0001 C CNN
 	4    7200 6375
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_POT RV7
@@ -1485,7 +1485,7 @@ F 1 "TL074" H 11050 2750 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 11025 2850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 11125 2950 50  0001 C CNN
 	2    11075 2750
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL074 U4
@@ -1496,7 +1496,7 @@ F 1 "TL074" H 11000 4650 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 11000 4750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 11100 4850 50  0001 C CNN
 	3    11050 4650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL074 U4
@@ -1507,7 +1507,7 @@ F 1 "TL074" H 11000 6375 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 11000 6475 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 11100 6575 50  0001 C CNN
 	4    11050 6375
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R_POT RV11
